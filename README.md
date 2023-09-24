@@ -74,10 +74,6 @@ After this, go in src folder and clone the px4_msgs repo:
 ```
 git clone https://github.com/PX4/px4_msgs.git
 ```
-Once again in the src folder create a folder:
-```
-mkdir IIoT_project
-```
 inside the new folder clone this repo:
 ```
 git clone "https://github.com/GioTKD/IIoT_project"
